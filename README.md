@@ -93,7 +93,3 @@ Checklist essencial:
 
   * Use `imagemin`, `tinypng.com` ou `squoosh.app`
 * [ ] **Geração da pasta `/dist`** com todos os arquivos otimizados
-
-
-Quer que eu personalize o README acima **com o nome do seu projeto, tecnologias reais que você usou e o tipo de deploy (GitHub Pages, Vercel etc.)**?
-Assim eu deixo o texto final pronto para colar no seu repositório.
