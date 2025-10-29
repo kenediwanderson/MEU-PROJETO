@@ -1,19 +1,6 @@
 # MEU-PROJETO
 
 
-### 🚀 Estrutura do Repositório GitHub
-
-├── src/                   # Código-fonte (HTML, CSS, JS, imagens)
-├── docs/                  # Documentação adicional (opcional)
-├── dist/                  # Versão otimizada para produção
-├── .gitignore
-├── package.json           # (se usar Node.js)
-├── README.md              # Documentação principal (entregável obrigatório)
-└── LICENSE                # Licença (opcional, mas recomendado)
-```
-
----
-
 ### 🔀 1. Controle de Versão (Git/GitHub)
 
 #### ✅ Estratégia de Branching — GitFlow
